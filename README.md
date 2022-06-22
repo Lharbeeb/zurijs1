@@ -1,1 +1,1 @@
-this codedispalys my name, height and country
+This code dispalys my name, height and country
